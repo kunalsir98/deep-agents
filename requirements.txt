@@ -1,0 +1,9 @@
+langchain
+langchain-groq 
+python-dotenv 
+ipykernel
+deepagents
+tavily-python
+langgraph
+langchain_quickjs
+streamlit
